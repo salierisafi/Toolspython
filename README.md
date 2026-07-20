@@ -21,7 +21,7 @@ berat = readline(prompt="Berat badan: ", end_line=" kg", type="float")
 **2. Tools Terminal**
 
 Sebuah Custom CLI IDE, menggunakan python di terminal Linux di Android.  
-Digunakan untuk mempermudah saya untuk belajar programming. 
+Digunakan untuk mempermudah saya untuk belajar programming. Dan rencananya menjadi ARG di novel saya nantinya.  
 
 1. Mendukung multi bahasa pemrograman.
 2. Auto compile dan menghapus file.
