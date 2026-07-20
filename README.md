@@ -11,8 +11,10 @@ Cara pemakaian :
 nama = readline(prompt="Masukkan nama Anda: ")
 print(f"Halo, {nama}!")
 
-# menambahkan satuan ' kg' yang tidak bisa dihapus, tipe terkunci float
+# Input terisi default "Ketik di sini..."
+teks = readline(prompt="Pesan: ", input_val="Ketik di sini...")
 
+# menambahkan satuan ' kg' yang tidak bisa dihapus, tipe terkunci float
 berat = readline(prompt="Berat badan: ", end_line=" kg", type="float")
 ```
 
