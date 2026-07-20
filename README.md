@@ -26,5 +26,11 @@ Digunakan untuk mempermudah saya untuk belajar programming.
 1. Mendukung multi bahasa pemrograman.
 2. Auto compile dan menghapus file.
 3. Multi bahasa satu perintah 'run'
-4. 
+4. run HTML menggunakan python
+5. Auto installer bahasa
+6. Menggunakan module readline
+
+Yang belum :
+Banyak, diantaranya run html + php
+
 
