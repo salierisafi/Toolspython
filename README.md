@@ -23,7 +23,8 @@ berat = readline(prompt="Berat badan: ", end_line=" kg", type="float")
 Sebuah Custom CLI IDE, menggunakan python di terminal Linux di Android.  
 Digunakan untuk mempermudah saya untuk belajar programming. 
 
-1. Mendukung multi bahasa pemrograman. 2. Auto compile dan menghapus file.
+1. Mendukung multi bahasa pemrograman.
+2. Auto compile dan menghapus file.
 3. Multi bahasa satu perintah 'run'
 4. 
 
